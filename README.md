@@ -21,7 +21,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -36,6 +38,7 @@
 ### 🧠 Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![RapidMiner AI Studio](https://img.shields.io/badge/RapidMiner%20AI%20Studio-FF6600?style=for-the-badge&logo=rapidminer&logoColor=white)
 
 ---
 
@@ -57,10 +60,29 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikoiii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikoiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikoiii&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<!-- 🚀 Tambahan Statistik -->
+<p align="center">
+  <!-- Profil Metrics Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikoiii&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <!-- Repo Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikoiii&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ikoiii&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikoiii&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
 
 ---
 
