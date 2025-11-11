@@ -25,26 +25,16 @@
 ### ⚙️ Backend Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgresql,mysql,mssql,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgresql,mysql" />
 </p>
 
-### 🧠 Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
-    ![RapidMiner AI Studio](https://img.shields.io/badge/RapidMiner%20AI%20Studio-FF6600?style=for-the-badge&logo=rapidminer&logoColor=white)
-</p>
-
----
 
 ## 🧰 Tools & Environment
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
-    ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-    ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 </p>
+
 ---
 ## 📊 GitHub Analytics
 
