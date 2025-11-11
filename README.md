@@ -19,7 +19,7 @@
 ### 🎨 Frontend Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,ts,js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,tailwind,html,ts,js" />
 </p>
 
 ### ⚙️ Backend Stack
@@ -36,10 +36,20 @@
 </p>
 
 ---
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<table align="center" width="100%">
+  <tr align="center">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ikoiii&theme=tokyo-night&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="ikoiii's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikoiii&theme=tokyo-night&layout=compact&hide_border=true" alt="ikoiii's Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikoiii&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
