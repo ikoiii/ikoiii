@@ -10,8 +10,8 @@
 💡 I'm a passionate **Fullstack Developer** who loves building **modern web applications** and exploring **AI & automation**.  
 🎓 Currently pursuing a **Bachelor's Degree in Informatics Engineering at Universitas Pamulang**.  
 ⚙️ I enjoy turning real-world problems into efficient, scalable solutions using modern technology stacks.  
-🌱 Currently learning **Cloud Computing** and **Machine Learning integration**.
 
+VIBE CODER
 ---
 
 ## 🧠 Tech Stack
