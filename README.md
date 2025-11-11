@@ -1,5 +1,9 @@
 <!-- Banner -->
 <p align="center">
+  <img src="https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif" width="400" alt="Stats animation">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Angger+Bayu+Sentiko!;💻+Fullstack+Developer+%26+AI+Enthusiast;🎓+Teknik+Informatika-Universitas+Pamulang" alt="Typing SVG" />
 </p>
 
@@ -39,20 +43,12 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
 </p>
 
-<p align="center">
-  <img src="https://i.gifer.com/4Yg.gif" width="180" alt="Tools gif">
-</p>
-
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikoiii&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif" width="400" alt="Stats animation">
 </p>
 
 ---
@@ -62,8 +58,3 @@
 💬 [WhatsApp](https://api.whatsapp.com/send?phone=6285783471443)  
 🎓 [Universitas Pamulang](https://unpam.ac.id/)  
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E1E1E&height=120&section=footer" />
-</p>
