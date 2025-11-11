@@ -36,7 +36,7 @@
 </p>
 
 ---
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <table align="center" width="100%">
   <tr align="center">
