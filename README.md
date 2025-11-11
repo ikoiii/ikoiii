@@ -39,24 +39,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikoiii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikoiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikoiii&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- 🚀 Tambahan Statistik -->
 <p align="center">
   <!-- Profil Metrics Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikoiii&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <!-- Repo Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikoiii&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ikoiii&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 <p align="center">
@@ -69,7 +58,6 @@
 
 ## 🌐 Connect with Me
 
-🐙 [GitHub](https://github.com/ikoiii)  
 💬 [WhatsApp](https://api.whatsapp.com/send?phone=6285783471443)  
 🎓 [Universitas Pamulang](https://unpam.ac.id/)  
 
