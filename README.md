@@ -19,7 +19,7 @@
 ### 🎨 Frontend Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,shadcn,fm,html,ts,js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,ts,js" />
 </p>
 
 ### ⚙️ Backend Stack
