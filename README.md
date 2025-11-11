@@ -39,16 +39,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikoiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<!-- 🚀 Tambahan Statistik -->
-<p align="center">
-  <!-- Profil Metrics Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikoiii&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-<p align="center">
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikoiii&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
