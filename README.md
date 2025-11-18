@@ -50,7 +50,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikoiii&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
-
+<p align="center">
+(https://nirzak-streak-stats.vercel.app/?user=ikoiii&theme=dark&hide_border=false)
+</p>
 ---
 
 ## 🌐 Connect with Me
