@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif" width="400" alt="Stats animation">
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Angger+Bayu+Sentiko!;💻+Fullstack+Developer+%26+AI+Enthusiast;🎓+Teknik+Informatika-Universitas+Pamulang" alt="Typing SVG" />
 </p>
