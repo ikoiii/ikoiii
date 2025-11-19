@@ -19,11 +19,11 @@ I enjoy turning real-world problems into efficient, scalable solutions using mod
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,tailwind,html,ts,js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,tailwind,html,css,ts,js" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgresql,mysql,npm,supabase,flutter" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ I enjoy turning real-world problems into efficient, scalable solutions using mod
 ## Tools & Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,mint,postman,powershell,md" />
 </p>
 
 ---
