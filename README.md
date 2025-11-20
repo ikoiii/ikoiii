@@ -23,7 +23,7 @@ I enjoy turning real-world problems into efficient, scalable solutions using mod
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgresql,mysql,npm,supabase,flutter" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgresql,mysql,npm,supabase,java" />
 </p>
 
 ---
