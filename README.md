@@ -23,7 +23,7 @@ I enjoy turning real-world problems into efficient, scalable solutions using mod
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgresql,mysql,npm,supabase,java" />
+  <img src="https://skillicons.dev/icons?i=gradle,express,python,fastapi,postgresql,mysql,prisma,supabase,java" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ I enjoy turning real-world problems into efficient, scalable solutions using mod
 ## Tools & Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,mint,postman,powershell,md" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,mint,postman,powershell,nodejs" />
 </p>
 
 ---
