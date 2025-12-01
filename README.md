@@ -46,9 +46,3 @@ I enjoy turning real-world problems into efficient, scalable solutions using mod
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikoiii&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
----
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemoycG55d240cHMxZTR6a2dwaWNpZzZhcGdrbmEwNzBjcDVqM2k1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97e6IX0kayYTK/giphy.gif" width="100%" style="border-radius: 10px;" />
-  <br>
-</div>
