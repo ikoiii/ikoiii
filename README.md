@@ -31,7 +31,7 @@ I enjoy turning real-world problems into efficient, scalable solutions using mod
 ## Tools & Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,mint,postman,powershell,nodejs" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,mint,postman,bun,nodejs" />
 </p>
 
 ---
