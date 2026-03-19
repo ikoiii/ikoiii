@@ -10,10 +10,6 @@ I'm a passionate **Fullstack Developer** who loves building **modern web applica
 Currently pursuing a **Bachelor's Degree in Informatics Engineering at Universitas Pamulang**.  
 I enjoy turning real-world problems into efficient, scalable solutions using modern technology stacks.  
 
-<p align="center">
-  <b> VIBE CODER </b>
-</p>
-
 ---
 
 ## Tech Stack
